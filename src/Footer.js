@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className="footer bottom-0 ">
       <p>
-        Copyright {year} by @{name}
+        Created by {year} @{name}
       </p>
     </footer>
   );
